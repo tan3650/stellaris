@@ -1,5 +1,7 @@
 # SPHEREx Blink 🛰️
 
+https://stellaris-azure.vercel.app/
+
 A public web tool for NASA's SPHEREx near-infrared sky survey. Enter a position (or an object name), and it
 pulls every SPHEREx exposure covering that patch of sky, aligns them onto one north-up grid, and plays them like a
 short video, so moving objects (asteroids, comets, brown dwarfs, high-proper-motion stars) jump out.
