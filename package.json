@@ -1,0 +1,25 @@
+{
+  "name": "spherex-blink",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public web tool to blink SPHEREx near-infrared images of any sky position and spot moving objects.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx scripts/test-core.ts"
+  },
+  "dependencies": {
+    "next": "^16.4.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.16.5",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.2"
+  }
+}
